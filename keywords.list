@@ -1,0 +1,12 @@
+# PHP
+inurl:php?id=
+inurl:php?page=
+inurl:php?news=
+inurl:php?index=
+inurl:php?offset=
+# ASP
+inurl:asp?id=
+inurl:asp?page=
+inurl:asp?news=
+inurl:asp?index=
+inurl:asp?offset=
